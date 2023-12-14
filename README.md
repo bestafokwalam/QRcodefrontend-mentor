@@ -28,7 +28,7 @@ My take on the OR code was a stepping stone form zero to a starting point, front
 ### Links
 
 - Solution URL: (https://github.com/metalbest101/QRcodefrontend-mentor/)
-- Live Site URL: (https://QRcodefrontend-mentor.vercel.app)
+- Live Site URL: (https://q-rcodefrontend-mentor.vercel.app/)
 
 ## My process
 After extracting the files and kept with the instructions, the HTML was like the skeleton where i started structuring my fundation.
